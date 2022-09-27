@@ -10,24 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="054f9e04-969a-4492-88da-7adb984d1e94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/dao/EmployeeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/dao/EmployeeDAOImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/service/EmployeeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/employee-info.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scaspb/spring/mvc_hibernate_aop/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/all-employees.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +69,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Constantine/IdeaProjects/spring_mvc_hibernate_aop/src/main/java/com/scaspb/spring/mvc_hibernate_aop/config",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "spring.configuration.checksum": "6f75456e7264f95e2e96d91f115c24e2"
   },
   "keyToStringList": {
@@ -97,8 +84,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Constantine\IdeaProjects\spring_mvc_hibernate_aop\src\main\java\com\scaspb\spring\mvc_hibernate_aop\config" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Constantine\IdeaProjects\spring_mvc_hibernate_aop\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Constantine\IdeaProjects\spring_mvc_hibernate_aop\src\oldResours" />
     </key>
   </component>
   <component name="RunManager">
@@ -200,11 +191,42 @@
       <updated>1663521255744</updated>
       <workItem from="1663521257454" duration="153000" />
       <workItem from="1663521423246" duration="15890000" />
-      <workItem from="1663541081652" duration="2758000" />
+      <workItem from="1663541081652" duration="3376000" />
+      <workItem from="1663576907496" duration="2403000" />
+      <workItem from="1663615685247" duration="21000" />
+      <workItem from="1663877622218" duration="637000" />
+      <workItem from="1663917492876" duration="11000" />
+      <workItem from="1663921271958" duration="1232000" />
+      <workItem from="1663927308186" duration="205000" />
+      <workItem from="1663957845154" duration="671000" />
+      <workItem from="1664111015712" duration="1901000" />
+      <workItem from="1664183732292" duration="9000" />
+      <workItem from="1664184656412" duration="671000" />
+      <workItem from="1664192409926" duration="1296000" />
+      <workItem from="1664294432093" duration="9333000" />
     </task>
+    <task id="LOCAL-00001" summary="Problem with update button">
+      <created>1663543942347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663543942347</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Problem with update button">
+      <created>1663544013094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663544013094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Problem with update button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem with update button" />
   </component>
 </project>
